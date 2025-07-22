@@ -1,0 +1,22 @@
+/*
+    
+// 1. Abstracts (design tokens)
+@use './abstracts/variables' as *;
+@use './abstracts/mixins' as *;
+@use './abstracts/functions' as *;
+
+// 2. Base styles (reset y tipografía)
+@use './base/reset';
+@use './base/typography';
+
+// 3. Layout (grid, spacing helpers)
+@use './layout/grid';
+@use './layout/spacing';
+
+// 4. Utilities (helpers de clase opcionales)
+@use './utilities/helpers';
+
+// 5. Animations (global motion)
+@use './base/animations';
+
+*/
