@@ -20,3 +20,6 @@
 @use './base/animations';
 
 */
+@use './mixins' as *;
+@use './base';
+@use '../components/InfoCard/InfoCard.scss';

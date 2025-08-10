@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'inter', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Caesar Dressing', cursive;
+  color: rgb(62, 86, 60);
+}
