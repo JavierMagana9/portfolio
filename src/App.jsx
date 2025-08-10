@@ -1,3 +1,4 @@
+import Resume from "./sections/Resume/Resume"
 
 
 
@@ -6,7 +7,7 @@ function App() {
 
   return (
     <>
-      <p>Brand new start!</p>
+      <Resume />
     </>
   )
 }
